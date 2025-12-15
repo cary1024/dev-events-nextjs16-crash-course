@@ -1,0 +1,8 @@
+{
+    // 1. 开启保存时自动格式化
+    "editor.formatOnSave": true,
+    // 3. (可选但强烈推荐) 保存时运行 ESLint 自动修复
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    }
+  }
